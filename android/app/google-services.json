@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "980135046529",
+    "project_id": "tanvir-firebase",
+    "storage_bucket": "tanvir-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980135046529:android:4457ee420e4e633caa8c80",
+        "android_client_info": {
+          "package_name": "com.tanvirfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980135046529-oh4d398nm1hjkg82da4pl7t16nu3e8f4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanvirfirebase",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "980135046529-340sd8crgjkef5nat8ll4rih3md142mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnTi6F2B_4gC7bYXdbrGc6rhmYQHAQ0Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980135046529-340sd8crgjkef5nat8ll4rih3md142mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
